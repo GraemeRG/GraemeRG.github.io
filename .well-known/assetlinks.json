@@ -1,1 +1,1 @@
-[]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.mse.mseapp.dev","sha256_cert_fingerprints":["C5:2C:66:A6:18:D1:84:56:41:2B:1B:66:1A:47:02:70:73:0D:D6:31:88:B4:3B:9B:D5:04:CF:5C:FB:94:82:1B","9E:7A:AD:9C:E3:BF:CC:3C:28:87:F2:2C:C5:13:EE:3B:1C:E3:1A:BF:11:D5:27:21:96:F7:E9:03:EF:01:C9:B0","75:FE:A8:E4:37:4B:87:E0:73:78:D3:5B:FF:F9:43:4E:8C:15:79:75:A3:4E:45:DA:7C:E7:85:48:21:55:2C:47","69:6A:0A:83:FD:ED:E4:2E:F2:D2:85:FE:D9:65:BF:66:B2:4D:12:B7:91:FC:AA:47:41:51:9F:7F:7D:43:00:90"]}}]
